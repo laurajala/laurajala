@@ -32,25 +32,81 @@ Também sou fundadora do projeto **Patinhas Solidárias**, iniciativa voluntári
 
 ---
 
-# 🚀 Tecnologias
+# 🚀 Tecnologias e Ferramentas
 
-### Testes
-- Testes Funcionais (manual)
-- Cypress (em aprendizado)
+## 🧪 Testes
 
-### Linguagens
-- JavaScript
-- PHP
+<p align="center">
 
-### Banco de Dados
-- SQL Server
-- MySQL
+<a href="https://www.cypress.io/">
+<img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white"/>
+</a>
 
-### Ferramentas
-- Git
-- GitHub
-- VS Code
-- Node.js
+<a href="https://www.postman.com/">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/Testes_Funcionais-5C2D91?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💻 Linguagens
+
+<p align="center">
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+
+<a href="https://www.php.net/">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🗄 Banco de Dados
+
+<p align="center">
+
+<a href="https://learn.microsoft.com/sql/sql-server">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🛠 Ferramentas
+
+<p align="center">
+
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
