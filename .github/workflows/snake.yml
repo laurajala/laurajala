@@ -13,17 +13,20 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk@master
         with:
           github_user_name: laurajala
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Check files
-        run: ls -la dist
+      - name: Ensure dist exists
+        run: mkdir -p dist
 
-      - name: Push generated files to main
+      - name: List files (debug)
+        run: ls -R
+
+      - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
