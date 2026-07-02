@@ -142,7 +142,7 @@ Projeto voluntário de cinoterapia voltado ao acolhimento e bem-estar emocional 
 
 ## 🐍 Minhas contribuições
 
-![snake gif](https://raw.githubusercontent.com/laurajala/laurajala/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/laurajala/laurajala/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
