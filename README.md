@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/laurajala/laurajala/main/.github/github_banner_laura_ajala.png" width="100%">
+  <img src="https://raw.githubusercontent.com/laurajala/laurajala/main/.github/workflows/capaGitHub.png" width="100%">
 </p>
 
 <h1 align="center">Laura Ajala 👩‍💻</h1>
