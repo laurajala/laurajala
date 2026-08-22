@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 Laura Ajala</h1>
 
 <h3 align="center">
-Quality Assurance Engineer | Manual & Automated Testing
+Quality Engineer | Manual & Automated Testing
 </h3>
 
 <p align="center">
@@ -28,7 +28,7 @@ Testes Funcionais • Cypress • JavaScript • API Testing • Postman • SQL
 
 # 👩‍💻 Sobre mim
 
-Sou profissional de **Quality Assurance**, atuando na garantia da qualidade de aplicações web por meio da análise de requisitos, planejamento e execução de testes, investigação de defeitos e validação de regras de negócio.
+Sou profissional de **Quality Engineer**, atuando na garantia da qualidade de aplicações web por meio da análise de requisitos, planejamento e execução de testes, investigação de defeitos e validação de regras de negócio.
 
 Minha experiência envolve:
 
