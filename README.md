@@ -78,7 +78,7 @@ Também possuo conhecimentos em desenvolvimento web, o que amplia minha visão t
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🔬 Quality Assurance
+### 🔬 Quality Engineer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Functional_Testing-5C2D91?style=for-the-badge"/>
@@ -131,7 +131,7 @@ Projeto de automação E2E desenvolvido com **Cypress e JavaScript**, utilizando
 
 ## 🎓 Desafio QA — Moodle
 
-Projeto voltado à demonstração do **processo de Quality Assurance**, reunindo planejamento, execução, documentação e automação de testes.
+Projeto voltado à demonstração do **processo de Quality Engineer**, reunindo planejamento, execução, documentação e automação de testes.
 
 ### 🔎 O que o projeto demonstra
 
