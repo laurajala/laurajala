@@ -1,147 +1,142 @@
-<h1 align="center">👩‍💻 Laura Ajala</h1>
+# 👩‍💻 Laura Ajala
 
-<h3 align="center">
-Quality Engineer | Manual & Automated Testing
-</h3>
+### Quality Engineer | Manual & Automated Testing
 
-<p align="center">
-Testes Funcionais • Cypress • JavaScript • API Testing • Postman • SQL • CI/CD
-</p>
+**Testes Funcionais • Automação E2E • Cypress • JavaScript • API Testing • Postman • SQL • CI/CD**
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/laura-ajala/">
-  <img src="https://img.shields.io/badge/LinkedIn-Laura_Ajala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:lauraq2000@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/laurajala?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfólio-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura_Ajala-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/laura-ajala/)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lauraq2000@hotmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Repositórios-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/laurajala?tab=repositories)
 
 ---
 
-# 👩‍💻 Sobre mim
+## 👩‍💻 Sobre mim
 
-Sou profissional de **Quality Engineer**, atuando na garantia da qualidade de aplicações web por meio da análise de requisitos, planejamento e execução de testes, investigação de defeitos e validação de regras de negócio.
+Sou **Quality Engineer**, atuando na garantia da qualidade de aplicações web por meio da análise de requisitos, planejamento e execução de testes, investigação de defeitos e validação de regras de negócio.
 
 Minha experiência envolve:
 
-- 🧪 Testes funcionais, exploratórios e de regressão
-- 🔄 Testes de integração e fluxos end-to-end
-- 🌐 Testes de APIs REST utilizando Postman
-- 🗄️ Validação e consulta de dados com SQL Server
-- 🐞 Identificação, documentação e acompanhamento de bugs
-- 📋 Criação de cenários, casos de teste e evidências
-- 🤖 Automação E2E com Cypress e JavaScript
-- 🔎 Análise de requisitos e regras de negócio
-- 🔁 Git e GitHub
-- ⚙️ Integração contínua com GitHub Actions
+* 🧪 Testes funcionais, exploratórios, de regressão e integração
+* 🔄 Validação de fluxos End-to-End
+* 🌐 Testes de APIs REST utilizando Postman
+* 🗄️ Consultas e validação de dados com SQL Server
+* 🐞 Identificação, documentação, acompanhamento e reteste de bugs
+* 📋 Criação de cenários, casos de teste e evidências
+* 🤖 Automação E2E com Cypress e JavaScript
+* 🔎 Análise de requisitos e regras de negócio
+* 🔁 Versionamento com Git e GitHub
+* ⚙️ Conhecimentos em CI/CD e GitHub Actions
 
-Atualmente venho aprofundando meus conhecimentos em **automação de testes e Quality Engineering**, desenvolvendo projetos práticos com Cypress, JavaScript, Node.js e CI/CD.
+Busco evoluir continuamente em **Quality Engineering e automação de testes**, desenvolvendo projetos práticos e aprofundando conhecimentos em Cypress, JavaScript, APIs, banco de dados e integração contínua.
 
-Também possuo conhecimentos em desenvolvimento web, o que amplia minha visão técnica durante a investigação de problemas e análise do comportamento das aplicações.
+Também mantenho projetos de desenvolvimento para ampliar minha visão técnica sobre as aplicações que testo e fortalecer conhecimentos em programação, backend e banco de dados.
 
-🎓 **Formação:** Gestão da Tecnologia da Informação  
+🎓 **Formação:** Gestão da Tecnologia da Informação
 🎓 **Graduação em andamento:** Ciência da Computação
 
 ---
 
-# 🧪 QA & Quality Engineering Stack
+# 🧪 Quality Engineering Stack
 
-### 🤖 Test Automation
+## 🤖 Test Automation
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/E2E_Testing-2E8B57?style=for-the-badge"/>
-</p>
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![E2E Testing](https://img.shields.io/badge/E2E_Testing-2E8B57?style=for-the-badge)
 
-### 🌐 API Testing
+## 🌐 API Testing
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-</p>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
 
-### 🗄️ Database
+## 🗄️ Database
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### 🔬 Quality Engineer
+## 🔬 Software Quality
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Functional_Testing-5C2D91?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Regression_Testing-7B1FA2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Integration_Testing-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Exploratory_Testing-00897B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bug_Reporting-D32F2F?style=for-the-badge"/>
-</p>
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-5C2D91?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-7B1FA2?style=for-the-badge)
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-0078D4?style=for-the-badge)
+![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-00897B?style=for-the-badge)
+![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-D32F2F?style=for-the-badge)
 
-### 🛠️ Tools & CI/CD
+## 🛠️ Tools & CI/CD
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
 # 🚀 Projetos em Destaque
 
-## 🧪 Automation Exercise — QA Automation
+## 📚 Hub de Leitura — Cypress E2E
 
-Projeto de automação E2E desenvolvido com **Cypress e JavaScript**, utilizando a plataforma Automation Exercise para validação de fluxos de uma aplicação web.
+Projeto de automação de testes web desenvolvido com **Cypress e JavaScript**, cobrindo diferentes funcionalidades do Hub de Leitura por meio de testes funcionais e fluxos End-to-End.
 
 ### 🔎 O que o projeto demonstra
 
-- Automação de testes E2E
-- Cypress
-- JavaScript
-- Estruturação de cenários
-- Validação de fluxos web
-- Execução automatizada
-- Pipeline com GitHub Actions
-- Documentação de requisitos e casos de teste
+* 🧪 Testes funcionais e E2E
+* 👤 Automação de cadastro e login
+* 🔄 Fluxo completo de cadastro → validação → login
+* 📚 Testes de catálogo e busca
+* ✉️ Validação de formulário de contato
+* 🎲 Geração de dados dinâmicos com Faker
+* 🧩 Custom Commands
+* 📄 Page Object
+* 🗂️ Fixtures para massa de dados
+* ✅ Cenários positivos e negativos
+
+### 🛠️ Stack
+
+`Cypress` `JavaScript` `Node.js` `Faker` `Page Object` `Fixtures`
+
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/laurajala/hub-leitura-teste-ui)
+
+---
+
+## 🧪 Automation Exercise — QA Automation
+
+Projeto de automação de testes **End-to-End** utilizando Cypress e JavaScript para validação de fluxos de uma aplicação web.
+
+### 🔎 O que o projeto demonstra
+
+* Automação de testes E2E
+* Estruturação de cenários de teste
+* Validação de fluxos web
+* Assertions
+* Cypress e JavaScript
+* Documentação de requisitos e casos de teste
+* Execução automatizada
+* Integração contínua com GitHub Actions
 
 ### 🛠️ Stack
 
 `Cypress` `JavaScript` `Node.js` `GitHub Actions`
 
-<p>
-<a href="https://github.com/laurajala/automation-exercise-qa">
-  <img src="https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/laurajala/automation-exercise-qa)
 
 ---
 
 ## 🎓 Desafio QA — Moodle
 
-Projeto voltado à demonstração do **processo de Quality Engineer**, reunindo planejamento, execução, documentação e automação de testes.
+Projeto que demonstra diferentes etapas do processo de **Quality Engineering**, reunindo planejamento, execução, documentação e automação de testes.
 
 ### 🔎 O que o projeto demonstra
 
-- 🧪 Casos de teste
-- 🐞 Relatórios de bugs
-- 📸 Evidências de execução
-- 🔎 Testes exploratórios
-- 📋 Validação de requisitos
-- 🤖 Automação com Cypress
-- 🗂️ Organização de documentação de QA
+* 🧪 Criação e execução de casos de teste
+* 🐞 Identificação e documentação de bugs
+* 📸 Evidências de execução
+* 🔎 Testes exploratórios
+* 📋 Validação de requisitos
+* 🤖 Automação E2E com Cypress
+* 🗂️ Organização da documentação de QA
 
 ### 📁 Estrutura
 
@@ -154,90 +149,49 @@ desafio-qa-moodle/
 └── 04_automacao_cypress/
 ```
 
-<p>
-<a href="https://github.com/laurajala/desafio-qa-moodle">
-  <img src="https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-
----
-
-## 📚 Hub Leitura — Cypress E2E
-
-Projeto de automação voltado à validação de fluxos críticos de uma aplicação web utilizando **Cypress e JavaScript**.
-
-### 🔎 Cobertura
-
-- Cenários positivos e negativos
-- Validação de campos obrigatórios
-- Testes de formulário
-- Mensagens de sucesso e erro
-- Fluxos E2E
-- Execução automatizada
-
-### 🛠️ Stack
-
-`Cypress` `JavaScript` `Node.js` `Git`
-
-<p>
-<a href="https://github.com/laurajala/hub-leitura-teste-ui">
-  <img src="https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/laurajala/desafio-qa-moodle)
 
 ---
 
 # 💻 Desenvolvimento & Fundamentos
 
-Além dos projetos focados em QA, mantenho projetos de desenvolvimento para aprofundar conhecimentos em programação, backend, banco de dados e funcionamento das aplicações que testo.
+Além dos projetos focados em Quality Engineering, mantenho projetos de desenvolvimento para aprofundar conhecimentos em programação, backend, banco de dados e funcionamento das aplicações.
 
-## 🍕 Pizzaria do João — PHP & MySQL
+## 🍕 Pizzaria — PHP & MySQL
 
 Sistema web para criação e gerenciamento de pedidos de uma pizzaria.
 
 ### Conceitos aplicados
 
-`PHP` `MySQL` `PDO` `CRUD` `Prepared Statements` `SQL JOIN` `Transações` `Validação` `Bootstrap`
+`PHP` `MySQL` `PDO` `CRUD` `Prepared Statements` `SQL JOIN` `Transações` `Validação`
 
-O projeto possui criação de pedidos, relacionamento entre pizzas e sabores, gerenciamento de status e exclusão de registros.
+O projeto trabalha com criação de pedidos, relacionamento entre pizzas e sabores, gerenciamento de status e persistência de dados.
 
-<p>
-<a href="https://github.com/laurajala/pizzaria-php">
-  <img src="https://img.shields.io/badge/Ver_Projeto-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</a>
-</p>
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-777BB4?style=for-the-badge\&logo=php\&logoColor=white)](https://github.com/laurajala/pizzaria-php)
 
 ---
 
 ## 👋 Boas-vindas Interativa — JavaScript
 
-Mini aplicação desenvolvida para prática dos fundamentos de JavaScript e manipulação do DOM.
+Projeto desenvolvido para praticar fundamentos de JavaScript, HTML, CSS e interação com elementos da página.
 
 ### Conceitos aplicados
 
-`DOM` `Events` `Form Validation` `Strings` `Template Literals` `Responsive Design`
+`JavaScript` `HTML` `CSS` `DOM` `Events` `Form Validation` `Template Literals`
 
-<p>
-<a href="https://github.com/laurajala/boas-vindas-javascript">
-  <img src="https://img.shields.io/badge/Ver_Projeto-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</a>
-</p>
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://github.com/laurajala/boas-vindas-javascript)
 
 ---
 
 ## 🔢 Tabuada — PHP
 
-Projeto introdutório desenvolvido para prática de lógica de programação utilizando PHP.
+Projeto desenvolvido para prática de lógica de programação utilizando PHP.
 
 ### Conceitos aplicados
 
-`PHP` `POST` `Loops` `Formulários` `Lógica de Programação`
+`PHP` `POST` `Funções` `Recursividade` `Formulários` `Lógica de Programação`
 
-<p>
-<a href="https://github.com/laurajala/Tabuada.php">
-  <img src="https://img.shields.io/badge/Ver_Projeto-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</a>
-</p>
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-777BB4?style=for-the-badge\&logo=php\&logoColor=white)](https://github.com/laurajala/tabuada-php)
 
 ---
 
@@ -279,24 +233,19 @@ Quality Engineering
 
 # 🎯 Evolução em Quality Engineering
 
-Meu objetivo é evoluir continuamente na construção de uma visão de qualidade que vá além da execução de testes, aproximando **QA, automação, desenvolvimento e CI/CD**.
+Meu objetivo é evoluir continuamente na construção de uma visão de qualidade que vá além da execução de testes, aproximando **qualidade, automação, desenvolvimento, APIs, banco de dados e CI/CD**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cypress-Test_Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-Automation-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+![Cypress](https://img.shields.io/badge/Cypress-Test_Automation-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Automation-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 
-<p align="center">
-  <b>Foco:</b> automações confiáveis, código sustentável e qualidade integrada ao ciclo de desenvolvimento.
-</p>
+**Foco:** automações confiáveis, código sustentável e qualidade integrada ao ciclo de desenvolvimento.
 
 ---
 
 # 🐍 Contributions
 
-![snake](https://raw.githubusercontent.com/laurajala/laurajala/main/dist/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/laurajala/laurajala/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
@@ -310,10 +259,6 @@ Acredito que tecnologia e impacto social podem caminhar juntos. ❤️🐾
 
 ---
 
-<h3 align="center">
-🧪 Quality is not just finding bugs. It's preventing them.
-</h3>
+### 🧪 Quality is not just finding bugs. It's preventing them.
 
-<p align="center">
-<b>Obrigada pela visita! 🚀</b>
-</p>
+**Obrigada pela visita! 🚀**
