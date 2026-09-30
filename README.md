@@ -50,6 +50,16 @@ Collection de testes da funcionalidade Catálogo de Livros, cobrindo GET, POST, 
 - Tokens obtidos em tempo de execução, sem dados sensíveis versionados
 
 `Postman` `JavaScript` `REST API`
+### [Hub de Leitura — Automação de API com Cypress](https://github.com/laurajala/hub-de-leitura-api-teste-task)
+
+Testes automatizados da API do Catálogo de Livros, executados em pipeline que sobe a própria API a cada commit.
+
+- CRUD completo (GET, POST, PUT e DELETE) com validação de persistência
+- Permissões testadas com três perfis: sem token (401), usuário comum (403) e administrador
+- Cenários negativos parametrizados, sem duplicação de código
+- Massa de dados criada pelos próprios testes e removida ao final
+
+`Cypress` `cypress-plugin-api` `JavaScript` `GitHub Actions`
 
 ### [Automation Exercise — QA e CI/CD](https://github.com/laurajala/automation-exercise-qa)
 
