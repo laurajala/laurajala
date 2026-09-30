@@ -1,257 +1,110 @@
-# 👩‍💻 Laura Ajala
+# Laura Ajala
 
 ### Quality Engineer | Manual & Automated Testing
 
-**Testes Funcionais • Automação E2E • Cypress • JavaScript • API Testing • Postman • SQL • CI/CD**
+Testes Funcionais • Cypress • JavaScript • API Testing • Postman • SQL • CI/CD
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura_Ajala-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/laura-ajala/)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lauraq2000@hotmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Repositórios-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/laurajala?tab=repositories)
-
----
-
-## 👩‍💻 Sobre mim
-
-Sou **Quality Engineer**, atuando na garantia da qualidade de aplicações web por meio da análise de requisitos, planejamento e execução de testes, investigação de defeitos e validação de regras de negócio.
-
-Minha experiência envolve:
-
-* 🧪 Testes funcionais, exploratórios, de regressão e integração
-* 🔄 Validação de fluxos End-to-End
-* 🌐 Testes de APIs REST utilizando Postman
-* 🗄️ Consultas e validação de dados com SQL Server
-* 🐞 Identificação, documentação, acompanhamento e reteste de bugs
-* 📋 Criação de cenários, casos de teste e evidências
-* 🤖 Automação E2E com Cypress e JavaScript
-* 🔎 Análise de requisitos e regras de negócio
-* 🔁 Versionamento com Git e GitHub
-* ⚙️ Conhecimentos em CI/CD e GitHub Actions
-
-Busco evoluir continuamente em **Quality Engineering e automação de testes**, desenvolvendo projetos práticos e aprofundando conhecimentos em Cypress, JavaScript, APIs, banco de dados e integração contínua.
-
-Também mantenho projetos de desenvolvimento para ampliar minha visão técnica sobre as aplicações que testo e fortalecer conhecimentos em programação, backend e banco de dados.
-
-🎓 **Formação:** Gestão da Tecnologia da Informação
-🎓 **Graduação em andamento:** Ciência da Computação
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura_Ajala-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-ajala/)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lauraq2000@hotmail.com)
 
 ---
 
-# 🧪 Quality Engineering Stack
+## Sobre mim
 
-## 🤖 Test Automation
+Sou Quality Engineer e atuo com QA em aplicações web, em sistemas de gestão de contratos e processos financeiros com regras de negócio complexas, como integração bancária de pagamentos, conciliação bancária, importação CNAB240 e cálculo de tributos (IRRF, INSS, ISSQN, IOF).
 
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![E2E Testing](https://img.shields.io/badge/E2E_Testing-2E8B57?style=for-the-badge)
+No dia a dia, trabalho com:
 
-## 🌐 API Testing
+- Análise de requisitos e validação de regras de negócio
+- Planejamento e execução de testes funcionais, de regressão, de integração e exploratórios
+- Elaboração de cenários e casos de teste, com registro de evidências
+- Identificação, documentação, acompanhamento e reteste de bugs
+- Validação de APIs com Postman
+- Consultas e conferência de dados com SQL Server
+- Homologação de funcionalidades junto ao time de desenvolvimento
+- Automação de testes E2E com Cypress e JavaScript
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
-
-## 🗄️ Database
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-## 🔬 Software Quality
-
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-5C2D91?style=for-the-badge)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-7B1FA2?style=for-the-badge)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-0078D4?style=for-the-badge)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-00897B?style=for-the-badge)
-![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-D32F2F?style=for-the-badge)
-
-## 🛠️ Tools & CI/CD
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+**Formação:** Gestão da Tecnologia da Informação · Ciência da Computação (em andamento)
 
 ---
 
-# 🚀 Projetos em Destaque
+## Projetos em destaque
 
-## 📚 Hub de Leitura — Cypress E2E
+### [Hub de Leitura — Automação E2E com Cypress](https://github.com/laurajala/hub-leitura-teste-ui)
 
-Projeto de automação de testes web desenvolvido com **Cypress e JavaScript**, cobrindo diferentes funcionalidades do Hub de Leitura por meio de testes funcionais e fluxos End-to-End.
+Automação dos fluxos de cadastro, login, catálogo, busca e contato, incluindo o fluxo completo cadastro → login → dashboard.
 
-### 🔎 O que o projeto demonstra
+- Page Object e Custom Commands para reutilizar código
+- Massa de dados dinâmica com Faker e dados fixos em Fixtures
+- Cenários positivos e negativos
 
-* 🧪 Testes funcionais e E2E
-* 👤 Automação de cadastro e login
-* 🔄 Fluxo completo de cadastro → validação → login
-* 📚 Testes de catálogo e busca
-* ✉️ Validação de formulário de contato
-* 🎲 Geração de dados dinâmicos com Faker
-* 🧩 Custom Commands
-* 📄 Page Object
-* 🗂️ Fixtures para massa de dados
-* ✅ Cenários positivos e negativos
+`Cypress` `JavaScript` `Node.js` `Faker`
 
-### 🛠️ Stack
+### [Hub de Leitura — Testes de API com Postman](https://github.com/laurajala/hub-de-leitura-api-postman)
 
-`Cypress` `JavaScript` `Node.js` `Faker` `Page Object` `Fixtures`
+Collection de testes da funcionalidade Catálogo de Livros, cobrindo GET, POST, PUT e DELETE.
 
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/laurajala/hub-leitura-teste-ui)
+- 13 requisições e 47 asserções de status code e de regras de negócio
+- Fluxo CRUD encadeado, com o ID criado reutilizado nas etapas seguintes
+- Cenários negativos: sem token, perfil sem permissão, ID inexistente e campos obrigatórios
+- Tokens obtidos em tempo de execução, sem dados sensíveis versionados
 
----
+`Postman` `JavaScript` `REST API`
 
-## 🧪 Automation Exercise — QA Automation
+### [Automation Exercise — QA e CI/CD](https://github.com/laurajala/automation-exercise-qa)
 
-Projeto de automação de testes **End-to-End** utilizando Cypress e JavaScript para validação de fluxos de uma aplicação web.
+Projeto que percorre o ciclo de QA: histórias de usuário → critérios de aceite (BDD) → casos de teste → automação → pipeline.
 
-### 🔎 O que o projeto demonstra
+- Critérios de aceite no formato Given/When/Then
+- Testes automatizados com Cypress
+- Execução automática com GitHub Actions a cada push e pull request
 
-* Automação de testes E2E
-* Estruturação de cenários de teste
-* Validação de fluxos web
-* Assertions
-* Cypress e JavaScript
-* Documentação de requisitos e casos de teste
-* Execução automatizada
-* Integração contínua com GitHub Actions
+`Cypress` `JavaScript` `GitHub Actions`
 
-### 🛠️ Stack
+### [Desafio QA — Moodle](https://github.com/laurajala/desafio-qa-moodle)
 
-`Cypress` `JavaScript` `Node.js` `GitHub Actions`
+Projeto com as etapas manuais e automatizadas de QA em uma plataforma Moodle.
 
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/laurajala/automation-exercise-qa)
+- Análise de requisitos e casos de teste
+- Testes funcionais, exploratórios e negativos
+- Relatório de bugs com evidências
+- Automação E2E com Cypress
+
+`Testes Manuais` `Bug Reporting` `Cypress`
 
 ---
 
-## 🎓 Desafio QA — Moodle
+## Stack
 
-Projeto que demonstra diferentes etapas do processo de **Quality Engineering**, reunindo planejamento, execução, documentação e automação de testes.
-
-### 🔎 O que o projeto demonstra
-
-* 🧪 Criação e execução de casos de teste
-* 🐞 Identificação e documentação de bugs
-* 📸 Evidências de execução
-* 🔎 Testes exploratórios
-* 📋 Validação de requisitos
-* 🤖 Automação E2E com Cypress
-* 🗂️ Organização da documentação de QA
-
-### 📁 Estrutura
-
-```text
-desafio-qa-moodle/
-│
-├── 01_casos_de_teste/
-├── 02_relatorio_de_bugs/
-├── 03_evidencias/
-└── 04_automacao_cypress/
-```
-
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/laurajala/desafio-qa-moodle)
+| Área | Ferramentas |
+|---|---|
+| Automação | Cypress, JavaScript, Node.js |
+| API | Postman, REST, JSON |
+| Banco de dados | SQL Server, MySQL |
+| CI/CD e versionamento | Git, GitHub, GitHub Actions |
+| Gestão | Jira, Kanban, Metodologias Ágeis |
 
 ---
 
-# 💻 Desenvolvimento & Fundamentos
+## Desenvolvimento
 
-Além dos projetos focados em Quality Engineering, mantenho projetos de desenvolvimento para aprofundar conhecimentos em programação, backend, banco de dados e funcionamento das aplicações.
+Também mantenho projetos de desenvolvimento para entender melhor as aplicações que testo:
 
-## 🍕 Pizzaria — PHP & MySQL
-
-Sistema web para criação e gerenciamento de pedidos de uma pizzaria.
-
-### Conceitos aplicados
-
-`PHP` `MySQL` `PDO` `CRUD` `Prepared Statements` `SQL JOIN` `Transações` `Validação`
-
-O projeto trabalha com criação de pedidos, relacionamento entre pizzas e sabores, gerenciamento de status e persistência de dados.
-
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-777BB4?style=for-the-badge\&logo=php\&logoColor=white)](https://github.com/laurajala/pizzaria-php)
+- [Pizzaria — PHP & MySQL](https://github.com/laurajala/pizzaria-php): CRUD com PDO, prepared statements, JOINs e transações
+- [Boas-vindas Interativa — JavaScript](https://github.com/laurajala/boas-vindas-javascript): DOM, eventos e validação de formulário
+- [Tabuada — PHP](https://github.com/laurajala/tabuada-php): lógica de programação, funções e recursividade
 
 ---
 
-## 👋 Boas-vindas Interativa — JavaScript
-
-Projeto desenvolvido para praticar fundamentos de JavaScript, HTML, CSS e interação com elementos da página.
-
-### Conceitos aplicados
-
-`JavaScript` `HTML` `CSS` `DOM` `Events` `Form Validation` `Template Literals`
-
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://github.com/laurajala/boas-vindas-javascript)
-
----
-
-## 🔢 Tabuada — PHP
-
-Projeto desenvolvido para prática de lógica de programação utilizando PHP.
-
-### Conceitos aplicados
-
-`PHP` `POST` `Funções` `Recursividade` `Formulários` `Lógica de Programação`
-
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-777BB4?style=for-the-badge\&logo=php\&logoColor=white)](https://github.com/laurajala/tabuada-php)
-
----
-
-# 🧭 Minha visão de qualidade
-
-```text
-Quality Engineering
-│
-├── 🔎 Requirements
-│   └── Entendimento das regras de negócio
-│
-├── 🧪 Testing
-│   ├── Functional Testing
-│   ├── Exploratory Testing
-│   ├── Regression Testing
-│   └── Integration Testing
-│
-├── 🤖 Automation
-│   ├── Cypress
-│   ├── JavaScript
-│   └── E2E Testing
-│
-├── 🌐 API
-│   ├── Postman
-│   ├── REST
-│   └── JSON
-│
-├── 🗄️ Database
-│   ├── SQL Server
-│   └── Data Validation
-│
-└── ⚙️ CI/CD
-    ├── Git
-    ├── GitHub
-    └── GitHub Actions
-```
-
----
-
-# 🎯 Evolução em Quality Engineering
-
-Meu objetivo é evoluir continuamente na construção de uma visão de qualidade que vá além da execução de testes, aproximando **qualidade, automação, desenvolvimento, APIs, banco de dados e CI/CD**.
-
-![Cypress](https://img.shields.io/badge/Cypress-Test_Automation-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Automation-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-
-**Foco:** automações confiáveis, código sustentável e qualidade integrada ao ciclo de desenvolvimento.
-
----
-
-# 🐍 Contributions
+## Contribuições
 
 ![Snake animation](https://raw.githubusercontent.com/laurajala/laurajala/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
-# ❤️ Além do código
+## Além do código
 
-Sou fundadora do **Patinhas Solidárias**, projeto voluntário criado em 2016 que realiza ações de cinoterapia em instituições sociais.
+Fundadora do **Patinhas Solidárias**, projeto voluntário criado em 2016 que leva cinoterapia a instituições sociais.
 
 A iniciativa utiliza a interação com cães terapeutas para proporcionar momentos de acolhimento, afeto e bem-estar.
 
